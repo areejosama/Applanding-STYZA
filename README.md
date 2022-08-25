@@ -1,5 +1,9 @@
 STYZA 
 
+-Single page application
+
+-Responsive website 
+
 Loading page
 
 •	Using react-spinners library
